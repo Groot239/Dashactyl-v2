@@ -1,4 +1,4 @@
-const path = require('path');lo
+const path = require('path');
 const express = require('express');
 const app = express();
 require('express-ws')(app);
